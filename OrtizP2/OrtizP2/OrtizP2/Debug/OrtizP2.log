@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+C:\Users\Claud\Downloads\OrtizP2\OrtizP2\OrtizP2\Driver.cpp(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Claud\Downloads\OrtizP2\OrtizP2\OrtizP2\Driver.cpp(66,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Claud\Downloads\OrtizP2\OrtizP2\OrtizP2\Driver.cpp(80,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Claud\Downloads\OrtizP2\OrtizP2\OrtizP2\Driver.cpp(94,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Claud\Downloads\OrtizP2\OrtizP2\OrtizP2\Driver.cpp(109,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OrtizP2.vcxproj -> C:\Users\Claud\Downloads\OrtizP2\OrtizP2\Debug\OrtizP2.exe
